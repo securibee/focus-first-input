@@ -1,7 +1,7 @@
 # Focus first input 🐝
 
-An extension to improve productivity by adding first input selection functionality. 
-I'm sure you've seen the sites where you can use `/` to select the first input, usually the search box to navigate quickly.
+An extension to improve productivity by adding first input focus functionality. 
+I'm sure you've seen the sites where you can use `/` to focus the first input, usually the search box to navigate quickly.
 This extensions attempts to mimic just that.
 
 ## Features
